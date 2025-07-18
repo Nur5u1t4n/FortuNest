@@ -1,0 +1,16 @@
+# Исключить файл с личными инвестициями
+investments.json
+
+# Кэш и временные файлы
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.DS_Store
+.env
+.idea/
+.vscode/
+*.log 
